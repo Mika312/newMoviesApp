@@ -1,0 +1,11 @@
+.search_bar {
+  margin: 50px 0 30px 0;
+}
+
+li:hover {
+  background-color: #e0e0e0;
+}
+
+.title_list_item {
+  text-align: center;
+}

@@ -8,8 +8,6 @@ import App from "./containers/app";
 
 // const createStoreWithMiddleware = applyMiddleware()(createStore);
 
-const API_KEY = "dcb8af96b8ac2447c12f8ea6e5dcb186";
-
 ReactDOM.render(
   // <Provider
   //   store={createStoreWithMiddleware(
